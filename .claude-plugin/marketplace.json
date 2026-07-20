@@ -10,7 +10,10 @@
     {
       "name": "ponytail",
       "description": "Forces the laziest solution that works. YAGNI, stdlib first, one line over fifty.",
-      "source": "./",
+      "source": {
+        "source": "github",
+        "repo": "kssung/ponytail"
+      },
       "category": "productivity"
     }
   ]
